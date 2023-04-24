@@ -1,10 +1,11 @@
 import './App.css'
-import { Headers } from './examples'
+import { PostRequest } from './examples'
+
 
 function App() {
   return (
     <>
-      <Headers />
+      <PostRequest />
     </>
   )
 }
