@@ -1,11 +1,10 @@
-
 import './App.css'
-import { FirstRequest } from './examples'
+import { Headers } from './examples'
 
 function App() {
   return (
     <>
-     <FirstRequest />
+      <Headers />
     </>
   )
 }

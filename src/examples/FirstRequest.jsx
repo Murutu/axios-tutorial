@@ -51,4 +51,6 @@ const fetchData = async () => {
     const data = response.data;
     console.log(data);
 }
+
+to access the headers you do console.log(response);
 */
