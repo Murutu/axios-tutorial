@@ -1,11 +1,12 @@
 import './App.css'
-import { PostRequest } from './examples'
+import { CustomInstance } from './examples'
+
 
 
 function App() {
   return (
     <>
-      <PostRequest />
+      <CustomInstance />
     </>
   )
 }
