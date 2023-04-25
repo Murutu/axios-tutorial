@@ -1,12 +1,13 @@
 import './App.css'
-import { CustomInstance } from './examples'
+import { InterceptorRequest } from './examples'
+
 
 
 
 function App() {
   return (
     <>
-      <CustomInstance />
+      <InterceptorRequest />
     </>
   )
 }
